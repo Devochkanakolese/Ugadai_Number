@@ -14,5 +14,5 @@ while True:
     elif a < q:
         print("Больше")
     else:
-        print("Угадал")
+        print("Ты Угадал!!")
         break
